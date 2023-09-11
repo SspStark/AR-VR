@@ -30,3 +30,14 @@ They make virtual objects look more realistic.
 - A texture is an ***image that skins objects*** giving them a surface detail.
 
 **3D Animation**- The process of giving motion to the virtual objects to bring them more to life.
+
+**Rigging**
+- The process of building a ***skeleton(bone structure) for a 3D model to make it move the way we want it to.
+- Can rig any model: fielder, car, dooor etc.
+
+**Rendering**
+- Process of generating output from 2D or 3D models by means of a computer software, which can be viewed on a computer screen or a HMD.
+- Considers Lighting, geometry etc and does computations.
+
+**3D Softwares**
+- Autodesk 3DS max, Blender, Maya, Cinema 4D
