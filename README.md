@@ -16,13 +16,17 @@ MR is just like AR but we need a device like VR divices and we can interact with
 ## XR Terminologies
 **2D & 3D Objects**
 - 2D objects have only two dimensions such as length and breadth.
-- 3D objects have three dimensions such as length, breadth and height.\
-**3D Modelling**- modeling or creating 3D objects.\
+- 3D objects have three dimensions such as length, breadth and height.
+
+**3D Modelling**- modeling or creating 3D objects.
+
 **Material**- material defines optical properties of an object
 - Color
 - How light bounces off it etc
-They make virtual objects look more realistic.\
+They make virtual objects look more realistic.
+
 **Texture**
 - Real world objects have complex patterns of color across their surface.
 - A texture is an ***image that skins objects*** giving them a surface detail.
+
 **3D Animation**
