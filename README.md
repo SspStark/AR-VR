@@ -29,4 +29,4 @@ They make virtual objects look more realistic.
 - Real world objects have complex patterns of color across their surface.
 - A texture is an ***image that skins objects*** giving them a surface detail.
 
-**3D Animation**
+**3D Animation**- The process of giving motion to the virtual objects to bring them more to life.
