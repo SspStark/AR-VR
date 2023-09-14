@@ -55,3 +55,36 @@ They make virtual objects look more realistic.
 **Inside-out Tracking** --> Cameras and other sensors are placed on the device itself. Advanced computer vision techniques (SLAM) are used to determine the exact position and controllers.\
 **Active** --> We can interact with virtual objects.\
 **Passive** --> We cannot interact with virtual objects in virtual world.
+## Game Engines for VR
+**Game Engine** --> An integrated development environment to enable simplified, rapid development of Games, XR experiences.It provides a suite of visual development tools in addition to reusable software components.
+- Physics engine
+- Rendering engine
+- Animation, Sound
+- AI-based components etc.
+
+**Physics Engine** provides properties related to physics to virtual objects in VR world.
+- Gravity, Froce, Velocity, Acceleration, Mass, Collisions, Friction, Elasticity, Rigidbody,Joints etc.
+
+**Rendering Engine** is a Process of generating output from 2D or 3D models by means of a computer software, which can be viewed on a computer screen or a HMD.
+- Graphics, Lightning, Shadows, Reflection, Materials, Cameras.
+
+**Sound** --> Creating experience of echos or generating sounds from objects which are called as ***Acoustics*** and VR Audio Spatializer.Acoustics consits of Reverberation, Chorus & Echo Effects, Doppler effect etc.
+
+**AI-based components**
+- Navigation: Path finding
+- ML Agents: Reinforcement Learning
+
+## Various Game Engines
+**Unity** --> A cross-platform game engine for creating interactive content (2D,3D,VR,AR).
+- Games, Simulations, XR Experiences
+
+**Unreal Engine**
+- To ship visually stunning, high-quality games and experiences across PC, console, VR and mobile platforms.
+- Used in variety of genres like platformers, Multiplayer games, RPGs etc.
+
+**CRYENGINE** --> German based game engine.
+
+**lumberyard** --> amazon company's game engine based on CRYENGINE.
+
+**GODOT**, **APERTUS VR**, **idTECH** and many more...
+
