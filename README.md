@@ -52,6 +52,6 @@ They make virtual objects look more realistic.
 **Standalone** --> It doesn't require a PC for VR proccessing, just a VR headset is enough.\
 **PC/Wired** --> It need a PC and our VR headset will connect to this PC with a wire/wireless, all the content that we see virtually will be processed in PC.\
 **Outside-in Tracking** --> VR devices uses external sensors to detect motion and track positioning of the headset and controllers using infrared LEDs.\
-**Inside-out Tracking** --> Cameras and other sensors are placed on the device itself. Advanced computer vision techniques (SLAM) are used to determine the exact position and controllers./
+**Inside-out Tracking** --> Cameras and other sensors are placed on the device itself. Advanced computer vision techniques (SLAM) are used to determine the exact position and controllers.\
 **Active** --> We can interact with virtual objects.\
 **Passive** --> We cannot interact with virtual objects in virtual world.
