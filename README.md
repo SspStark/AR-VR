@@ -12,7 +12,7 @@ Imagine if we wish to go to paris for Eiffel tower, but not everyone can afford 
 AR technology is simply embedding or adding virtual or 3D objects into real world environments where we don't need any special devices like we use for VR it works as an application in our mobile, tablet or PC.\
 let's say we opened our mobile camera in AR application along with the real objects that we see through camera we can also see some additional objects that aren't actually there and we can interact with them like playing games.
 ## MR-Mixed Reality
-MR is just like AR but we need a device like VR divices and we can interact with the virtual objects ditectly not through our devices, just like ***Holograms***.
+MR is just like AR but we need a Headset like VR divices and we can interact with the virtual objects ditectly not through our devices, just like ***Holograms***.
 ## XR Terminologies
 **2D & 3D Objects**
 - 2D objects have only two dimensions such as length and breadth.
@@ -41,3 +41,14 @@ They make virtual objects look more realistic.
 
 **3D Softwares**
 - Autodesk 3DS max, Blender, Maya, Cinema 4D
+## Types of VR Experiences
+**Degrees of Freedom** --> 3DoF VR | 6DoF VR\
+**PC Requirement** --> Standalone | PC/Wired\
+**Tracking** --> Inside-out | Outside-in\
+**Interaction** --> Passive | Active
+
+**3DoF** --> we can our head in x,y and z directions in VR world.\
+**6DoF** --> along with our head we can move our body in all directions in VR world.\
+**Standalone** --> It doesn't require a PC for VR proccessing, just a VR headset is enough.\
+**PC/Wired** --> It need a PC and our VR headset will connect to this PC with a wire/wireless, all the content that we see virtually will be processed in PC.\
+
