@@ -47,7 +47,7 @@ They make virtual objects look more realistic.
 **Tracking** --> Inside-out | Outside-in\
 **Interaction** --> Passive | Active
 
-**3DoF** --> we can our head in x,y and z directions in VR world.\
+**3DoF** --> we can move our head in x,y and z directions in VR world.\
 **6DoF** --> along with our head we can move our body in all directions in VR world.\
 **Standalone** --> It doesn't require a PC for VR proccessing, just a VR headset is enough.\
 **PC/Wired** --> It need a PC and our VR headset will connect to this PC with a wire/wireless, all the content that we see virtually will be processed in PC.\
@@ -88,3 +88,21 @@ They make virtual objects look more realistic.
 
 **GODOT**, **APERTUS VR**, **idTECH** and many more...
 
+**VR Platforms**
+- VR for the Smartphones (android,ios)
+- Standalone Headsets
+- PC VR
+- Web
+## Web-VR
+**VR on the Web**
+- WebVR is an open specification for creating VR experiences in a web-browser.
+- Easy to build and share quickly.
+- Supports mobile, PC, Headset.
+
+**Web-XR**
+- Supports both VR and AR with better performance.
+
+**Web-VR Frameworks**
+- A-FRAME, babylon.js, three.js, FRAME VR many more..
+- [FRAME VR](https://learn.framevr.io/)
+- [My First Framevr](https://framevr.io/ssp-first-frame)
