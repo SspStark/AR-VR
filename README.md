@@ -125,3 +125,16 @@ They make virtual objects look more realistic.
 - Let's say your are shopping and you want try different dresses with superimposition AR you can try them virtually you don't have to wear them, you just have to stand infront of a mirror or device which is programmed with AR and you can see trying different dresses which can be called as ***virtual Try-Ons***.
 - Home shopping
 
+**AR Engines**
+- Game Engines --> unity, UNREAL ENGINE
+- Software Development Kit(SDKs) --> ARKit,vuforia many more...
+
+**Web-AR**
+- Zapper, 8th WALL, AUGMANIA, HOLOlink, Spark AR many more...
+
+## Spark AR
+A studio tool from Facebook that allows users to create their own AR effects for mobile or in PC.
+- Spark AR studio [Installation](https://spark.meta.com/learn/downloads#spark-ar-studio) and System Requirements
+- Spark AR Template project to start off with
+- Project with different Materials and Textures
+- Tutorials for various effects using Spark AR
