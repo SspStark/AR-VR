@@ -135,6 +135,4 @@ They make virtual objects look more realistic.
 ## Spark AR
 A studio tool from Facebook that allows users to create their own AR effects for mobile or in PC.
 - Spark AR studio [Installation](https://spark.meta.com/learn/downloads#spark-ar-studio) and System Requirements
-- Spark AR Template project to start off with
-- Project with different Materials and Textures
-- Tutorials for various effects using Spark AR
+- [Tutorials](https://spark.meta.com/learn/tutorials) for various effects using Spark AR
