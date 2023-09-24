@@ -104,7 +104,6 @@ They make virtual objects look more realistic.
 
 **Web-VR Frameworks**
 - A-FRAME, babylon.js, three.js, FRAME VR many more..
-## Types of AR
 
 [FRAME VR](https://learn.framevr.io/)
 - [My First Framevr](https://framevr.io/ssp-first-frame)
@@ -112,3 +111,6 @@ They make virtual objects look more realistic.
 **Cardboard VR**
 - [set-up and use Cardboard VR](https://www.youtube.com/watch?v=_LuyQV_iSJk)
 - [make easy VR cardboard at home](https://www.youtube.com/watch?v=8qNmRi-gNqE)
+## Types of AR
+- Marker-based AR
+- Markerless AR (1.Location-based AR, 2.Superimposition AR)
