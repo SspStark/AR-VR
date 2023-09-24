@@ -114,3 +114,14 @@ They make virtual objects look more realistic.
 ## Types of AR
 - Marker-based AR
 - Markerless AR (1.Location-based AR, 2.Superimposition AR)
+
+**Marker-based AR**
+- Experiencing 3D animations, virtual objects based on what you see through your camera.\Ex:-you are seeing a textbook through your camera in AR application the pictures that you see on paper will become 3D objects, animations and interactions will be possible.Here the paper will take as a marker in AR application.
+
+**Location-based AR**
+- Agumenting virtual or 3D objects based on our location.
+
+**Superimposition AR**
+- Let's say your are shopping and you want try different dresses with superimposition AR you can try them virtually you don't have to wear them, you just have to stand infront of a mirror or device which is programmed with AR and you can see trying different dresses which can be called as ***virtual Try-Ons***.
+- Home shopping
+
