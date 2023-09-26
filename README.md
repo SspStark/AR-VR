@@ -122,7 +122,7 @@ They make virtual objects look more realistic.
 - Agumenting virtual or 3D objects based on our location.
 
 **Superimposition AR**
-- Let's say your are shopping and you want try different dresses with superimposition AR you can try them virtually you don't have to wear them, you just have to stand infront of a mirror or device which is programmed with AR and you can see trying different dresses which can be called as ***virtual Try-Ons***.
+- Let's say your are shopping and you want try different dresses, with superimposition AR you can try them virtually you don't have to wear them, you just have to stand infront of a mirror or device which is programmed with AR and you can see trying different dresses which can be called as ***virtual Try-Ons***.
 - Home shopping
 
 **AR Engines**
